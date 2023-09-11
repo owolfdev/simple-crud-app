@@ -17,7 +17,7 @@ Ensure that you have the following installed:
    Open your terminal and run the following command to clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/owolfdev/simple-crud-app
    ```
 
 2. **Navigate to the Project Directory**
