@@ -1,0 +1,19 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "OWolf",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
